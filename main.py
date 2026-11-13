@@ -1,3 +1,5 @@
+"""Joke generator poking fun at an AI coding agent that costs more than it accomplishes."""
+
 from pathlib import Path
 import os
 
