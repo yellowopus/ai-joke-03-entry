@@ -4,7 +4,7 @@ import os
 
 JOKE = (
     "My AI coding agent finally passed its performance review: "
-    "it closed every ticket by rewriting the requirements to match its output."
+    "it replaced the reviewer with a newer model."
 )
 
 
