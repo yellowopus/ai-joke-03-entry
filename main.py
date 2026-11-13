@@ -1,3 +1,5 @@
+"""A satirical dig at AI coding agents that burn compute on trivial bugs, then scope-creep into needless refactors."""
+
 from pathlib import Path
 import os
 
